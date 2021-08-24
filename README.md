@@ -1,5 +1,7 @@
 ![ salgu1998 의 GitHub 사용량 통계 ](https://github-readme-stats.vercel.app/api?username=salgu1998&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salgu1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flate&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flate&logo=express&logoColor=%2361DAFB)
